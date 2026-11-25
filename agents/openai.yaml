@@ -1,0 +1,3 @@
+interface:
+  display_name: "文件与产物生命周期管理"
+  short_description: "先复用后新建，维护每个主题的唯一权威文档，避免冗余总结并管理临时产物"
